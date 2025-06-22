@@ -67,8 +67,7 @@ Branch: Computer Science Engineering
 
 ## 🌐 ONLINE PRESENCE  
 
-- **GitHub:** [github.com/ankitkushwaha90](https://github.com/ankitkushwaha90)  
-- **Portfolio/Blog:** *Add if available*  
+- **GitHub:** [github.com/ankitkushwaha90](https://github.com/ankitkushwaha90)   
 
 ---
 
