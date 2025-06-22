@@ -15,7 +15,7 @@
 - **ML/DL:** CNN, RNN, GRU, LSTM, Encoder-Decoder, Transformers
 - **Generative AI:** LLMs, QLoRA, RAG, Vector DBs, Fine-Tuning
 - **Frameworks:** PyTorch, TensorFlow, Hugging Face, LangChain
-- **Other Tools:** Git, Colab, Jupyter, FastAPI
+- **Other Tools:** Git, Colab, Jupyter, FastAPI, Django, flask, Docker
 
 ---
 
